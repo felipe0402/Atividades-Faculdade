@@ -18,14 +18,24 @@ public class App{
                 
         System.out.println("A media dos 3 sao:" + (num1*3 + num2*8 + num3*8)/3 );*/
 
+
+
         // Atividade 03
 
-        Scanner s = new Scanner(System.in);
+        /*Scanner s = new Scanner(System.in);
         System.out.println("Digite o numero  do lado do quadrado:");
         int Quadrado= s.nextInt();
 
-        System.out.println("A área do quadrado é:" + Quadrado * Quadrado );
-           
+        System.out.println("A área do quadrado é:" + Quadrado * Quadrado );*/
+
+
+        // Atividade 04
+
+        /*Scanner s = new Scanner(System.in);
+        System.out.println("Digite o raio do círculo:");
+        int raio= s.nextInt();
+
+        System.out.println("A área do circulo é:" + Math.PI * Math.pow(raio, 2) );*/          
     }
      
     
