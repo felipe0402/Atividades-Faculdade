@@ -1,6 +1,6 @@
-/*import java.util.Scanner; 
+import java.util.Scanner; 
  
-public class App{ 
+public class somaSalario{ 
     public static void main(String[] args){ 
          
  
@@ -14,7 +14,5 @@ public class App{
      
     System.out.printf("O salario %.2f foi aumnetado 10 cento para  %.2f ", salario_total, acrecimo); 
  
- 
- 
- 
-}}*/
+
+}}

@@ -1,9 +1,6 @@
-
-
-       /*
 import java.util.Scanner;
 
-public class Atividade_1{
+public class somaMatematica{
     public static void main(String[] args){
         
       //Atividade-1 e 2
@@ -19,7 +16,7 @@ Scanner s = new Scanner(System.in);       //<--- Ativa o Teclado
         int num3 = s.nextInt();                    //  <-- Variavel que amazenara os dado    
                 
         System.out.println("A media dos 3 sao:" + (num1*3 + num2*8 + num3*8)/3 );*/
-
+    }}
 
 
         // Atividade 03
