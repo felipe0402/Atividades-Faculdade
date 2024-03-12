@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 
-public class atividade2 {
+public class somaMediaAlunoV2 {
   public static void main(String[] args){
   Scanner s = new Scanner(System.in);
 
-  System.out.print("DIGITE A SUA NOTA DE 1-10");
-
+  System.out.print("DIGITE A SUA NOTA DE 1-10 ");
+  System.out.println(" ");
   System.out.println("Digite a norta 1:");
   double nota1=s.nextDouble();
 
