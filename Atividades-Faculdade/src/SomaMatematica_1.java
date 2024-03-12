@@ -1,13 +1,13 @@
 
 
+       /*
 import java.util.Scanner;
 
 public class Atividade_1{
     public static void main(String[] args){
         
       //Atividade-1 e 2
-
-       /*Scanner s = new Scanner(System.in);       //<--- Ativa o Teclado
+Scanner s = new Scanner(System.in);       //<--- Ativa o Teclado
 
         System.out.println("Digite o numero 1:");  //<-- Solicitar dados
         int num1= s.nextInt();              // <-- Variavel que amazenara os dado    

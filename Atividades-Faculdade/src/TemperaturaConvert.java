@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+/*import java.util.Scanner; 
  
 public class TenperaturaConvert { 
     public static void main(String[] args) { 
@@ -35,4 +35,4 @@ public class TenperaturaConvert {
         System.out.println("Opcao invalida ");
        };
     }
-}
+}*/
