@@ -1,6 +1,7 @@
+package switch_case;
 import java.util.Scanner;
 
-public class switch_case_ler1_7 {
+public class diasDaSemana {
   public static void main(String[] args) { 
       Scanner s = new Scanner(System.in);
 

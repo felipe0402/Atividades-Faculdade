@@ -1,6 +1,7 @@
+package switch_case;
 import java.util.Scanner;
 
-public class switch_case_atvd_01 { 
+public class convertData { 
   public static void main(String[] args) { 
       Scanner s = new Scanner(System.in);
 
