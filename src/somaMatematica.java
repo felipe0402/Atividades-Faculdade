@@ -15,7 +15,7 @@ Scanner s = new Scanner(System.in);       //<--- Ativa o Teclado
         System.out.println("Digite o numero 3:"); // <-- Solicitar dados
         int num3 = s.nextInt();                    //  <-- Variavel que amazenara os dado    
                 
-        System.out.println("A media dos 3 sao:" + (num1*3 + num2*8 + num3*8)/3 );*/
+        System.out.println("A media dos 3 sao:" + (num1*3 + num2*8 + num3*8)/3);
     }}
 
 

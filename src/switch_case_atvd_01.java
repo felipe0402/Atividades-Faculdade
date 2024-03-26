@@ -4,11 +4,11 @@ public class switch_case_atvd_01 {
   public static void main(String[] args) { 
       Scanner s = new Scanner(System.in);
 
-      System.out.println("Didite o Dia:");
+      System.out.println("Digite o Dia:");
       int dia = s.nextInt();
-      System.out.println("Didite o Mes:");
+      System.out.println("Digite o Mes:");
       int mes = s.nextInt();
-      System.out.println("Didite o Ano:");
+      System.out.println("Digite o Ano:");
       int ano = s.nextInt();
 
     
