@@ -1,5 +1,5 @@
+package if_else;
 import java.util.Scanner;
-
 public class and_or {
 
   public static void main (String[] args){

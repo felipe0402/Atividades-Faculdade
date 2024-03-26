@@ -1,3 +1,4 @@
+package if_else;
 import java.util.Scanner;
 
 public class impa_par {
@@ -14,11 +15,5 @@ public class impa_par {
           System.out.println("O numero "+ numero + " é impar");
 
         }
-
-      
-      
-      
-          }
-
-  
+    }  
 }
